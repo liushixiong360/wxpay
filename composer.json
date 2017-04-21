@@ -18,6 +18,5 @@
         "psr-4": {
             "Lsx\\Wxpay\\": "src"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
