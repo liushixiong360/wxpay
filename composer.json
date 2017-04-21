@@ -2,6 +2,7 @@
     "name": "liushixiong360/wxpay",
     "description": "A simple library to encode and decode JSON Web Tokens (JWT) in PHP. Should conform to the current spec.",
     "homepage": "https://github.com/liushixiong360/wxpay",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "liushixiong360",
@@ -18,6 +19,6 @@
         "psr-4": {
             "Lsx\\Wxpay\\": "src"
         }
-    },
-    "minimum-stability": "dev"
+    }
+    
 }
