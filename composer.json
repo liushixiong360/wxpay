@@ -19,5 +19,5 @@
             "Lsx\\Wxpay\\": "src"
         }
     },
-    "minimum-stability": "alpha"
+    "minimum-stability": "dev"
 }
